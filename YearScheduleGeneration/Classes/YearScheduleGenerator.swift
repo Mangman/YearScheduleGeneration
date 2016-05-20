@@ -52,9 +52,8 @@ class YearScheduleGenerator {
             print ("to-")
             print (dateFormatter.stringFromDate(endDate))
             
-            
             var day = beginDate
-            while dateFormatter.stringFromDate(day) != dateFormatter.stringFromDate(endDate) {
+            while day.compare(endDate) != NSComparisonResult.OrderedDescending{
                 //print ("\nKEK\n")
                 //Fill all the information about lessons on the current day
                 try fillOneDate(day, weekSchedule: week)
@@ -83,10 +82,6 @@ class YearScheduleGenerator {
     }
 
     private func fillOneDate (date: NSDate, weekSchedule: WeekSchedule)throws {
-        
-        // TODO: add JSON file + wrapper? U.p.d i dont wanna
-        //let holidays = ["02.09.2015", "04.10.2015"]
-        
         //Retrieve weekday name for the date
         let weekDay = date.dayOfTheWeek
         
