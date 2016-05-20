@@ -1,0 +1,50 @@
+{
+    "Monday": [
+               {"name": "a", "room": "1", "teacherId": "01", "hometaskId": "-1"},
+               {"name": "b", "room": "2", "teacherId": "02", "hometaskId": "-1"},
+               {"name": "c", "room": "3", "teacherId": "03", "hometaskId": "-1"},
+               {"name": "d", "room": "4", "teacherId": "04", "hometaskId": "-1"},
+               {"name": "e", "room": "5", "teacherId": "05", "hometaskId": "-1"},
+               {"name": "f", "room": "6", "teacherId": "06", "hometaskId": "-1"}
+               ],
+    "Tuesday": [
+               {"name": "a", "room": "1", "teacherId": "01", "hometaskId": "-1"},
+               {"name": "b", "room": "2", "teacherId": "02", "hometaskId": "-1"},
+               {"name": "c", "room": "3", "teacherId": "03", "hometaskId": "-1"},
+               {"name": "d", "room": "4", "teacherId": "04", "hometaskId": "-1"},
+               {"name": "e", "room": "5", "teacherId": "05", "hometaskId": "-1"},
+               {"name": "f", "room": "6", "teacherId": "06", "hometaskId": "-1"}
+               ],
+    "Wednesday": [
+               {"name": "a", "room": "1", "teacherId": "01", "hometaskId": "-1"},
+               {"name": "b", "room": "2", "teacherId": "02", "hometaskId": "-1"},
+               {"name": "c", "room": "3", "teacherId": "03", "hometaskId": "-1"},
+               {"name": "d", "room": "4", "teacherId": "04", "hometaskId": "-1"},
+               {"name": "e", "room": "5", "teacherId": "05", "hometaskId": "-1"},
+               {"name": "f", "room": "6", "teacherId": "06", "hometaskId": "-1"}
+               ],
+    "Thursday": [
+               {"name": "a", "room": "1", "teacherId": "01", "hometaskId": "-1"},
+               {"name": "b", "room": "2", "teacherId": "02", "hometaskId": "-1"},
+               {"name": "c", "room": "3", "teacherId": "03", "hometaskId": "-1"},
+               {"name": "d", "room": "4", "teacherId": "04", "hometaskId": "-1"},
+               {"name": "e", "room": "5", "teacherId": "05", "hometaskId": "-1"},
+               {"name": "f", "room": "6", "teacherId": "06", "hometaskId": "-1"}
+               ],
+    "Friday": [
+               {"name": "a", "room": "1", "teacherId": "01", "hometaskId": "-1"},
+               {"name": "b", "room": "2", "teacherId": "02", "hometaskId": "-1"},
+               {"name": "c", "room": "3", "teacherId": "03", "hometaskId": "-1"},
+               {"name": "d", "room": "4", "teacherId": "04", "hometaskId": "-1"},
+               {"name": "e", "room": "5", "teacherId": "05", "hometaskId": "-1"},
+               {"name": "f", "room": "6", "teacherId": "06", "hometaskId": "-1"}
+               ],
+    "Saturday": [
+               {"name": "a", "room": "1", "teacherId": "01", "hometaskId": "-1"},
+               {"name": "b", "room": "2", "teacherId": "02", "hometaskId": "-1"},
+               {"name": "c", "room": "3", "teacherId": "03", "hometaskId": "-1"},
+               {"name": "d", "room": "4", "teacherId": "04", "hometaskId": "-1"},
+               {"name": "e", "room": "5", "teacherId": "05", "hometaskId": "-1"},
+               {"name": "f", "room": "6", "teacherId": "06", "hometaskId": "-1"}
+               ]
+}
