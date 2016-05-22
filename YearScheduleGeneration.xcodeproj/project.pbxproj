@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		84724E651CF1A00C006DD957 /* DateFormatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84724E641CF1A00C006DD957 /* DateFormatter.swift */; };
 		849AE3351CE707E700EFFF2B /* JsonFileIO.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849AE3341CE707E700EFFF2B /* JsonFileIO.swift */; };
-		849AE33B1CE7691400EFFF2B /* DateFormatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849AE33A1CE7691400EFFF2B /* DateFormatter.swift */; };
 		84B5F0151CEF519100926625 /* Teacher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84B5F0141CEF519100926625 /* Teacher.swift */; };
 		84B5F01E1CEF61B600926625 /* DateIdJson.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84B5F01A1CEF61B600926625 /* DateIdJson.swift */; };
 		84B5F01F1CEF61B600926625 /* HolidaysJson.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84B5F01B1CEF61B600926625 /* HolidaysJson.swift */; };
@@ -37,9 +37,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		84724E641CF1A00C006DD957 /* DateFormatter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DateFormatter.swift; sourceTree = "<group>"; };
 		849AE3331CE701B200EFFF2B /* Results */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Results; sourceTree = "<group>"; };
 		849AE3341CE707E700EFFF2B /* JsonFileIO.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JsonFileIO.swift; sourceTree = "<group>"; };
-		849AE33A1CE7691400EFFF2B /* DateFormatter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DateFormatter.swift; path = ../../../../Desktop/DateFormatter.swift; sourceTree = "<group>"; };
 		84B5F0141CEF519100926625 /* Teacher.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Teacher.swift; path = DataContainers/Teacher.swift; sourceTree = "<group>"; };
 		84B5F0181CEF605200926625 /* Holidays.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = Holidays.json; path = "../../Library/Developer/Xcode/DerivedData/YearScheduleGeneration-gsslymctmeewlbeuwzbashlnhcgt/Build/Products/Debug/Holidays.json"; sourceTree = "<group>"; };
 		84B5F01A1CEF61B600926625 /* DateIdJson.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DateIdJson.swift; path = Jsons/DateIdJson.swift; sourceTree = "<group>"; };
@@ -125,8 +125,8 @@
 				849AE3341CE707E700EFFF2B /* JsonFileIO.swift */,
 				84E4DDA01CE50CDE00E1F391 /* YearScheduleJsonAssembly.swift */,
 				84E4DDAA1CE61E2500E1F391 /* YearScheduleGenerator.swift */,
-				849AE33A1CE7691400EFFF2B /* DateFormatter.swift */,
 				84E4DDCA1CE6644800E1F391 /* NSDateExtension.swift */,
+				84724E641CF1A00C006DD957 /* DateFormatter.swift */,
 			);
 			name = Classes;
 			path = YearScheduleGeneration/Classes;
@@ -208,7 +208,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				849AE33B1CE7691400EFFF2B /* DateFormatter.swift in Sources */,
 				84D020831CE67F00004757A0 /* WeekSchedule.swift in Sources */,
 				84E4DDA31CE50CDE00E1F391 /* YearScheduleJsonAssembly.swift in Sources */,
 				84D020801CE67F00004757A0 /* Day.swift in Sources */,
@@ -218,6 +217,7 @@
 				84B5F0201CEF61B600926625 /* IdLessonJson.swift in Sources */,
 				84E4DDC31CE6323300E1F391 /* WeekJsonParser.swift in Sources */,
 				84E4DD841CE26C5400E1F391 /* main.swift in Sources */,
+				84724E651CF1A00C006DD957 /* DateFormatter.swift in Sources */,
 				84D020821CE67F00004757A0 /* Lesson.swift in Sources */,
 				849AE3351CE707E700EFFF2B /* JsonFileIO.swift in Sources */,
 				84E4DDCB1CE6644800E1F391 /* NSDateExtension.swift in Sources */,
